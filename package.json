@@ -1,0 +1,23 @@
+{
+  "name": "reece_portfolio",
+  "version": "1.0.0",
+  "description": "responsive portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reecem02/Reece_Portfolio.git"
+  },
+  "author": "Reece Morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reecem02/Reece_Portfolio/issues"
+  },
+  "homepage": "https://github.com/reecem02/Reece_Portfolio#readme"
+}
